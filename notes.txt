@@ -1,0 +1,19 @@
+Bootstrap, no need for Wordpress
+Home page - twitter feed, social media links in footer
+          - below twitter feed, sponsors
+About us
+Donations - push pay link?
+Calendar page - embeded google calendar
+Gallery - pictures
+Contact Us
+Footer - contributions (for non-home page)/sponsors
+Header:
+    About us
+        Overview
+        Bios
+        Contact Us?
+        ?
+    Events
+    Gallery
+    Giving
+    Contact Us?
