@@ -1,0 +1,12 @@
+/* --------------------
+ * Bootstrap Override
+ * ------------------*/
+
+body {
+	background: grey url('../img/background_road.jpg') no-repeat center center fixed;
+	background-size: cover;
+	/*overflow-y:scroll;*/
+}
+
+nav {
+}
