@@ -26,3 +26,21 @@ body, html {
 	margin-bottom: 0;
 	color: #F2F4F4;
 }
+
+@media (min-width: 768px) {
+	.navbar-collapse.text-collapse {
+	display: inline-block !important;
+	height: auto !important;
+	padding-bottom: 0;
+	overflow: visible !important;
+	}
+}
+
+.navbar-collapse.text-collapse{
+	display: none;
+}
+
+.navbar-toggle input {
+	width: 20px;
+	height: 20px;
+}
