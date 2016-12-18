@@ -5,8 +5,24 @@
 body {
 	background: grey url('../img/background_road.jpg') no-repeat center center fixed;
 	background-size: cover;
+	padding-top: 60px;
 	/*overflow-y:scroll;*/
 }
 
-nav {
+body, html {
+	height: 100%;
+}
+
+.wrap {
+	min-height: 100%;
+	color: white;
+}
+
+.navbar-static-bottom {
+	padding-left: 0;
+	padding-right: 0;
+	z-index: 1000;
+	border-width: 1px 0 0;
+	margin-bottom: 0;
+	color: #F2F4F4;
 }
