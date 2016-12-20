@@ -44,3 +44,13 @@ body, html {
 	width: 20px;
 	height: 20px;
 }
+
+input:focus {
+	outline: none;
+}
+
+.navbar-brand img {
+	width:30px;
+	height:30px;
+	margin: -5px 5px 0 -5px;
+}
