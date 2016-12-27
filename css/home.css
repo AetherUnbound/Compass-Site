@@ -14,8 +14,23 @@ body, html {
 }
 
 .wrap {
+	background: #FEFDFB url('../img/compass-header.jpg') no-repeat;
+	/* TODO: fix this image */
+	background-position: -20px -45px;
+	margin: 5% 10%;
 	min-height: 100%;
-	color: white;
+	color: #654422;
+	border: #077a01 3px solid;
+}
+
+hr {
+	border-color: #654422;
+	border-width: 3px;
+	margin: 5px 0px;
+}
+
+.content-padder {
+	padding: 160px 0px;
 }
 
 .navbar-static-bottom {
